@@ -1,0 +1,17 @@
+com\juridico\juridico\modelo\Asunto.class
+com\juridico\juridico\controlador\ProcuradorController.class
+com\juridico\juridico\servicio\clienteService\ClienteService.class
+com\juridico\juridico\servicio\procuradorService\IProcurador.class
+com\juridico\juridico\modelo\Procurador.class
+com\juridico\juridico\servicio\asuntoService\AsuntoService.class
+com\juridico\juridico\modelo\EstadoAsunto.class
+com\juridico\juridico\repositorio\ClienteRepository.class
+com\juridico\juridico\repositorio\AsuntoRepository.class
+com\juridico\juridico\modelo\Cliente.class
+com\juridico\juridico\servicio\asuntoService\IAsunto.class
+com\juridico\juridico\repositorio\ProcuradorRepository.class
+com\juridico\juridico\servicio\procuradorService\ProcuradorService.class
+com\juridico\juridico\controlador\ClienteController.class
+com\juridico\juridico\JuridicoApplication.class
+com\juridico\juridico\servicio\clienteService\ICliente.class
+com\juridico\juridico\controlador\AsuntoController.class
